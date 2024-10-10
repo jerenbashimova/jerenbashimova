@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, my name is Jeren Bashimova! 👋
 
-<!--
-**jerenbashimova/jerenbashimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresh graduate in computer engineering with a strong passion for full-stack development. I'm enthusiastic about creating innovative solutions, constantly learning, and contributing to impactful projects.   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Working on building user-focused full-stack applications with an emphasis on performance and scalability.
+
+- 🧠 Learning cloud technologies and enhancing my skills in back-end development techniques.
+
+- 📫 Feel free to connect with me on LinkedIn or reach out via bashimovajeren@gmail.com.
+
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,jquery,react,git,github,githubactions,mysql,nodejs,postman,vscode,)](https://skillicons.dev)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeren-bashimova/)
+
+
+
+
