@@ -1,24 +1,20 @@
-# Hi, my name is Jeren Bashimova! 👋
+# Hi, I'm Jeren Bashimova! 👋
 
-I'm a fresh graduate in computer engineering with a strong passion for full-stack development. I'm enthusiastic about creating innovative solutions, constantly learning, and contributing to impactful projects.   
+Software Developer with 2+ years of experience in backend development using **.NET** and **Umbraco CMS**. I build and maintain web applications with ASP.NET Core, Entity Framework Core and SQL Server, and I'm comfortable making frontend improvements with HTML, CSS and JavaScript. Computer Engineering graduate of **Dokuz Eylül University**.
 
-
-- 👩‍💻 Working on building user-focused full-stack applications with an emphasis on performance and scalability.
-
-- 🧠 Learning cloud technologies and enhancing my skills in back-end development techniques.
-
-- 📫 Feel free to connect with me on LinkedIn or reach out via bashimovajeren@gmail.com.
-
+- 👩‍💻 Building and maintaining web applications with .NET, ASP.NET Core and Umbraco CMS
+- 🔌 Working with REST APIs, integrations, Entity Framework Core and SQL Server
+- 🧠 Focused on writing clean, maintainable code and continuously growing my backend skills
+- 🌍 Speaks English (C1), Turkish and Russian
+- 📫 Reach me at **bashimovajeren@gmail.com** or on LinkedIn
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,jquery,react,git,github,githubactions,mysql,nodejs,postman,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,jquery,git,github,visualstudio,vscode,postman)](https://skillicons.dev)
 
+**Also:** ASP.NET Core · Razor · Umbraco CMS · Entity Framework Core · Microsoft SQL Server · UIkit · REST APIs · Agile/Scrum
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeren-bashimova/)
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeren-bashimova/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bashimovajeren@gmail.com)
